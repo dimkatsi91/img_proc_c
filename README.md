@@ -1,4 +1,6 @@
 # img_proc_c
 Image Processing with C in windows
 
-Debug and run under Windows (virtually image processing)
+-------------------------------------------------------------------
+
+Debug and run under Windows (virtual image processing)
